@@ -1,0 +1,207 @@
+    INFO: 2025-04-05 13:09:36,976:               log.py:   20: Logging to C:\Users\11037\Desktop\Comp790_CI_assign2\mdpdf.log
+   DEBUG: 2025-04-05 13:09:36,977:               cli.py:  103: research_proposal.md
+    INFO: 2025-04-05 13:09:36,977:         converter.py:   14: research_proposal.md
+   DEBUG: 2025-04-05 13:09:36,981:      pdf_renderer.py:  470: printSegment: Research Proposal: Perception-Guided Optimization in
+   DEBUG: 2025-04-05 13:09:36,982:      pdf_renderer.py:  470: printSegment: Holographic Displays
+   DEBUG: 2025-04-05 13:09:36,983:      pdf_renderer.py:  470: printSegment: Project Information
+   DEBUG: 2025-04-05 13:09:36,983:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:36,984:      pdf_renderer.py:  470: printSegment: Title
+   DEBUG: 2025-04-05 13:09:36,986:      pdf_renderer.py:  470: printSegment: : Perception-Guided Optimization in Holographic Displays: Balancing Quality, Efficiency, and
+   DEBUG: 2025-04-05 13:09:36,987:      pdf_renderer.py:  470: printSegment: Hardware Constraints
+   DEBUG: 2025-04-05 13:09:36,988:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:36,988:      pdf_renderer.py:  470: printSegment: Principal Investigators
+   DEBUG: 2025-04-05 13:09:36,989:      pdf_renderer.py:  470: printSegment: : Department of Computer Science, UNC Chapel Hill
+   DEBUG: 2025-04-05 13:09:36,989:      pdf_renderer.py:  470: printSegment: 1. Introduction
+   DEBUG: 2025-04-05 13:09:36,992:      pdf_renderer.py:  470: printSegment: Holographic displays offer a pathway to highly realistic 3D visualizations, surpassing the limitations of stereoscopic
+   DEBUG: 2025-04-05 13:09:36,993:      pdf_renderer.py:  470: printSegment: or light field displays. However, their practical deployment remains constrained by:
+   DEBUG: 2025-04-05 13:09:36,994:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:36,994:      pdf_renderer.py:  470: printSegment: Hardware limitations (e.g., bit-depth, spatial light modulators)
+   DEBUG: 2025-04-05 13:09:36,994:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:36,995:      pdf_renderer.py:  470: printSegment: Visual artifacts (e.g., speckle noise)
+   DEBUG: 2025-04-05 13:09:36,995:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:36,996:      pdf_renderer.py:  470: printSegment: Perceptual thresholds of human users
+   DEBUG: 2025-04-05 13:09:36,997:      pdf_renderer.py:  470: printSegment: This proposal aims to explore and quantify perceptually important trade-offs in holographic display systems, with a
+   DEBUG: 2025-04-05 13:09:36,997:      pdf_renderer.py:  470: printSegment: focus on optimizing:
+   DEBUG: 2025-04-05 13:09:36,997:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:36,998:      pdf_renderer.py:  470: printSegment: Bit-depth
+   DEBUG: 2025-04-05 13:09:36,998:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:36,999:      pdf_renderer.py:  470: printSegment: Phase regularization
+   DEBUG: 2025-04-05 13:09:36,999:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:36,999:      pdf_renderer.py:  470: printSegment: Hardware configuration
+   DEBUG: 2025-04-05 13:09:37,000:      pdf_renderer.py:  470: printSegment: 2. Research Objectives
+   DEBUG: 2025-04-05 13:09:37,000:      pdf_renderer.py:  470: printSegment: O1: Perceptual Quality Modeling
+   DEBUG: 2025-04-05 13:09:37,000:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,001:      pdf_renderer.py:  470: printSegment: Build a perceptual quality model using Maximum Likelihood Difference Scaling (MLDS)
+   DEBUG: 2025-04-05 13:09:37,001:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,002:      pdf_renderer.py:  470: printSegment: Focus on bit-depth impact on visual quality
+   DEBUG: 2025-04-05 13:09:37,002:      pdf_renderer.py:  470: printSegment: O2: Phase Strategy Analysis
+   DEBUG: 2025-04-05 13:09:37,003:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,003:      pdf_renderer.py:  470: printSegment: Compare smooth-phase and random-phase holograms
+   DEBUG: 2025-04-05 13:09:37,003:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,004:      pdf_renderer.py:  470: printSegment: Evaluate:
+   DEBUG: 2025-04-05 13:09:37,004:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,005:      pdf_renderer.py:  470: printSegment: Visual fidelity
+   DEBUG: 2025-04-05 13:09:37,005:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,005:      pdf_renderer.py:  470: printSegment: Computational demand
+   DEBUG: 2025-04-05 13:09:37,006:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,006:      pdf_renderer.py:  470: printSegment: Speckle suppression
+   DEBUG: 2025-04-05 13:09:37,007:      pdf_renderer.py:  470: printSegment: O3: System Parameter Investigation
+   DEBUG: 2025-04-05 13:09:37,007:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,008:      pdf_renderer.py:  470: printSegment: Study impact of:
+   DEBUG: 2025-04-05 13:09:37,008:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,008:      pdf_renderer.py:  470: printSegment: Eyebox size
+   DEBUG: 2025-04-05 13:09:37,009:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,009:      pdf_renderer.py:  470: printSegment: Near-field vs far-field configurations
+   DEBUG: 2025-04-05 13:09:37,010:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,010:      pdf_renderer.py:  470: printSegment: Sparse vs dense 3D scenes
+   DEBUG: 2025-04-05 13:09:37,011:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,011:      pdf_renderer.py:  470: printSegment: Focus on perceptual realism
+   DEBUG: 2025-04-05 13:09:37,012:      pdf_renderer.py:  470: printSegment: O4: Hardware Trade-off Evaluation
+   DEBUG: 2025-04-05 13:09:37,012:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,013:      pdf_renderer.py:  470: printSegment: Compare LCOS and DMD spatial light modulators
+   DEBUG: 2025-04-05 13:09:37,013:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,014:      pdf_renderer.py:  470: printSegment: Analyze:
+   DEBUG: 2025-04-05 13:09:37,014:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,014:      pdf_renderer.py:  470: printSegment: Perceptual efficiency
+   DEBUG: 2025-04-05 13:09:37,014:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,015:      pdf_renderer.py:  470: printSegment: Computational efficiency
+   DEBUG: 2025-04-05 13:09:37,015:      pdf_renderer.py:  470: printSegment: 3. Background and Related Work
+   DEBUG: 2025-04-05 13:09:37,016:      pdf_renderer.py:  470: printSegment: Previous Research Findings
+   DEBUG: 2025-04-05 13:09:37,016:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,016:      pdf_renderer.py:  470: printSegment: Phase initialization and smooth-phase regularization are critical for speckle suppression 
+   DEBUG: 2025-04-05 13:09:37,017:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-04-05 13:09:37,017:      pdf_renderer.py:  470: printSegment: Chakravarthula et al. 2019, Shi et al. 2022
+   DEBUG: 2025-04-05 13:09:37,018:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-04-05 13:09:37,018:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,018:      pdf_renderer.py:  470: printSegment: Energy concentration reduces eyebox size 
+   DEBUG: 2025-04-05 13:09:37,019:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-04-05 13:09:37,019:      pdf_renderer.py:  470: printSegment: Wang et al. 2024
+   DEBUG: 2025-04-05 13:09:37,019:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-04-05 13:09:37,020:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,020:      pdf_renderer.py:  470: printSegment: Neural methods improve defocus blur realism 
+   DEBUG: 2025-04-05 13:09:37,021:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-04-05 13:09:37,021:      pdf_renderer.py:  470: printSegment: Yang et al. 2022
+   DEBUG: 2025-04-05 13:09:37,021:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-04-05 13:09:37,022:      pdf_renderer.py:  470: printSegment: Perceptual Studies
+   DEBUG: 2025-04-05 13:09:37,022:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,022:      pdf_renderer.py:  470: printSegment: Bit-depth thresholds 
+   DEBUG: 2025-04-05 13:09:37,023:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-04-05 13:09:37,023:      pdf_renderer.py:  470: printSegment: Maloney and Yang 2003
+   DEBUG: 2025-04-05 13:09:37,023:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-04-05 13:09:37,023:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,024:      pdf_renderer.py:  470: printSegment: Speckle visibility 
+   DEBUG: 2025-04-05 13:09:37,024:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-04-05 13:09:37,025:      pdf_renderer.py:  470: printSegment: Georgiou et al. 2023
+   DEBUG: 2025-04-05 13:09:37,025:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-04-05 13:09:37,025:      pdf_renderer.py:  470: printSegment: 4. Methodology
+   DEBUG: 2025-04-05 13:09:37,026:      pdf_renderer.py:  470: printSegment: 4.1 Perceptual Modeling via Bit-Depth Scaling
+   DEBUG: 2025-04-05 13:09:37,026:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-04-05 13:09:37,026:      pdf_renderer.py:  470: printSegment: Conduct 2AFC (two-alternative forced choice) user study
+   DEBUG: 2025-04-05 13:09:37,027:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-04-05 13:09:37,027:      pdf_renderer.py:  470: printSegment: Fit perceptual quality curve using MLDS
+   DEBUG: 2025-04-05 13:09:37,028:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-04-05 13:09:37,028:      pdf_renderer.py:  470: printSegment: Determine thresholds for:
+   DEBUG: 2025-04-05 13:09:37,028:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,029:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-04-05 13:09:37,029:      pdf_renderer.py:  470: printSegment: Acceptable
+   DEBUG: 2025-04-05 13:09:37,029:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-04-05 13:09:37,030:      pdf_renderer.py:  470: printSegment:  quality regions
+   DEBUG: 2025-04-05 13:09:37,030:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,030:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-04-05 13:09:37,031:      pdf_renderer.py:  470: printSegment: Diminishing returns
+   DEBUG: 2025-04-05 13:09:37,031:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-04-05 13:09:37,031:      pdf_renderer.py:  470: printSegment:  regions
+   DEBUG: 2025-04-05 13:09:37,032:      pdf_renderer.py:  470: printSegment: 4.2 Phase Strategy Comparison
+   DEBUG: 2025-04-05 13:09:37,032:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-04-05 13:09:37,032:      pdf_renderer.py:  470: printSegment: Generate holograms:
+   DEBUG: 2025-04-05 13:09:37,033:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,033:      pdf_renderer.py:  470: printSegment: Smooth-phase
+   DEBUG: 2025-04-05 13:09:37,033:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,034:      pdf_renderer.py:  470: printSegment: Random-phase
+   DEBUG: 2025-04-05 13:09:37,034:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-04-05 13:09:37,035:      pdf_renderer.py:  470: printSegment: Evaluate artifacts:
+   DEBUG: 2025-04-05 13:09:37,035:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,035:      pdf_renderer.py:  470: printSegment: Speckle
+   DEBUG: 2025-04-05 13:09:37,036:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,036:      pdf_renderer.py:  470: printSegment: Defocus blur
+   DEBUG: 2025-04-05 13:09:37,037:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,037:      pdf_renderer.py:  470: printSegment: Ringing
+   DEBUG: 2025-04-05 13:09:37,037:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-04-05 13:09:37,038:      pdf_renderer.py:  470: printSegment: Use both:
+   DEBUG: 2025-04-05 13:09:37,038:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,038:      pdf_renderer.py:  470: printSegment: User studies
+   DEBUG: 2025-04-05 13:09:37,039:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,039:      pdf_renderer.py:  470: printSegment: PSNR/SSIM metrics
+   DEBUG: 2025-04-05 13:09:37,039:      pdf_renderer.py:  470: printSegment: 4.3 System Parameters Evaluation
+   DEBUG: 2025-04-05 13:09:37,040:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-04-05 13:09:37,040:      pdf_renderer.py:  470: printSegment: Eyebox Analysis:
+   DEBUG: 2025-04-05 13:09:37,041:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,041:      pdf_renderer.py:  470: printSegment: Vary sizes
+   DEBUG: 2025-04-05 13:09:37,041:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,042:      pdf_renderer.py:  470: printSegment: Measure quality drop-off
+   DEBUG: 2025-04-05 13:09:37,042:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-04-05 13:09:37,042:      pdf_renderer.py:  470: printSegment: Content Analysis:
+   DEBUG: 2025-04-05 13:09:37,042:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,043:      pdf_renderer.py:  470: printSegment: Simulate sparse/dense 3D content
+   DEBUG: 2025-04-05 13:09:37,043:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,043:      pdf_renderer.py:  470: printSegment: Visualize reconstructions
+   DEBUG: 2025-04-05 13:09:37,044:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-04-05 13:09:37,044:      pdf_renderer.py:  470: printSegment: Field Configuration:
+   DEBUG: 2025-04-05 13:09:37,044:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,044:      pdf_renderer.py:  470: printSegment: Compare near-field/far-field
+   DEBUG: 2025-04-05 13:09:37,045:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,045:      pdf_renderer.py:  470: printSegment: Assess 2D perception accuracy
+   DEBUG: 2025-04-05 13:09:37,045:      pdf_renderer.py:  470: printSegment: 4.4 Hardware Trade-off Analysis
+   DEBUG: 2025-04-05 13:09:37,046:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-04-05 13:09:37,046:      pdf_renderer.py:  470: printSegment: Prototype Comparison:
+   DEBUG: 2025-04-05 13:09:37,046:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,047:      pdf_renderer.py:  470: printSegment: LCOS vs DMD
+   DEBUG: 2025-04-05 13:09:37,047:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,047:      pdf_renderer.py:  470: printSegment: Simulation and real-world testing
+   DEBUG: 2025-04-05 13:09:37,048:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-04-05 13:09:37,048:      pdf_renderer.py:  470: printSegment: Performance Metrics:
+   DEBUG: 2025-04-05 13:09:37,048:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,049:      pdf_renderer.py:  470: printSegment: Temporal multiplexing impact
+   DEBUG: 2025-04-05 13:09:37,049:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,049:      pdf_renderer.py:  470: printSegment: Perceptual stability
+   DEBUG: 2025-04-05 13:09:37,049:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,050:      pdf_renderer.py:  470: printSegment: Hardware complexity
+   DEBUG: 2025-04-05 13:09:37,050:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,050:      pdf_renderer.py:  470: printSegment: Cost-benefit analysis
+   DEBUG: 2025-04-05 13:09:37,051:      pdf_renderer.py:  470: printSegment: 5. Expected Contributions
+   DEBUG: 2025-04-05 13:09:37,051:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-04-05 13:09:37,052:      pdf_renderer.py:  470: printSegment: Validated perceptual model for bit-depth vs quality
+   DEBUG: 2025-04-05 13:09:37,052:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-04-05 13:09:37,052:      pdf_renderer.py:  470: printSegment: Practical guidelines for hologram phase optimization
+   DEBUG: 2025-04-05 13:09:37,053:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-04-05 13:09:37,053:      pdf_renderer.py:  470: printSegment: Quantitative trade-off maps for system configuration
+   DEBUG: 2025-04-05 13:09:37,053:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-04-05 13:09:37,054:      pdf_renderer.py:  470: printSegment: Hardware selection insights based on user-centric criteria
+   DEBUG: 2025-04-05 13:09:37,054:      pdf_renderer.py:  470: printSegment: 6. Potential Impact
+   DEBUG: 2025-04-05 13:09:37,055:      pdf_renderer.py:  470: printSegment: This work directly advances the field of perceptual display technology by:
+   DEBUG: 2025-04-05 13:09:37,055:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,056:      pdf_renderer.py:  470: printSegment: Establishing concrete guidelines for practical holographic rendering
+   DEBUG: 2025-04-05 13:09:37,056:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,056:      pdf_renderer.py:  470: printSegment: Informing academic research
+   DEBUG: 2025-04-05 13:09:37,057:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,057:      pdf_renderer.py:  470: printSegment: Guiding industrial product design
+   DEBUG: 2025-04-05 13:09:37,057:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-04-05 13:09:37,058:      pdf_renderer.py:  470: printSegment: Supporting AR/VR systems requiring realistic 3D visual output under hardware limitations
+   DEBUG: 2025-04-05 13:09:37,058:      pdf_renderer.py:   53: 0, [1, 'Research Proposal: Perception-Guided Optimization in Holographic Displays', 1, 87.2]
+   DEBUG: 2025-04-05 13:09:37,058:      pdf_renderer.py:   53: 1, [2, 'Project Information', 1, 125.20000000000002]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 2, [2, '1. Introduction', 1, 206.80000000000004]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 3, [2, '2. Research Objectives', 1, 396.40000000000003]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 4, [3, 'O1: Perceptual Quality Modeling', 1, 429.6]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 5, [3, 'O2: Phase Strategy Analysis', 1, 494.4]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 6, [3, 'O3: System Parameter Investigation', 1, 607.1999999999999]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 7, [3, 'O4: Hardware Trade-off Evaluation', 2, 72.0]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 8, [2, '3. Background and Related Work', 2, 173.20000000000002]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 9, [3, 'Previous Research Findings', 2, 206.40000000000003]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 10, [3, 'Perceptual Studies', 2, 295.20000000000005]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 11, [2, '4. Methodology', 2, 360.40000000000003]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 12, [3, '4.1 Perceptual Modeling via Bit-Depth Scaling', 2, 393.6]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 13, [3, '4.2 Phase Strategy Comparison', 2, 506.4]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 14, [3, '4.3 System Parameters Evaluation', 2, 703.1999999999999]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 15, [3, '4.4 Hardware Trade-off Analysis', 3, 242.4]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 16, [2, '5. Expected Contributions', 3, 403.6]
+   DEBUG: 2025-04-05 13:09:37,059:      pdf_renderer.py:   53: 17, [2, '6. Potential Impact', 3, 497.20000000000005]
